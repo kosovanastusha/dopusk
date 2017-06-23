@@ -1,7 +1,7 @@
-#ifndef FUNCTION_H
-#define FUNCTION_H
+#ifndef OTHERFUNC_H
+#define OTHERFUNC_H
 
-float Diskr(int a, int b, int c);
+float Discriment(float a,float b,float c);
 
 int Proverka(float D);
 
