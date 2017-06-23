@@ -28,6 +28,7 @@ CTEST(Test_3_proverka, input_0)
 	
     ASSERT_EQUAL(expected, result);
 }
+
 // Discriment
 CTEST(Test_1_discriment, input_3_2_1)
 {
