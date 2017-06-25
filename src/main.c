@@ -41,3 +41,6 @@ int main ()
 	}
 	return 0;
 }
+	system("PAUSE");
+return 0;
+}
